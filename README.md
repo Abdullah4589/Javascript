@@ -2,7 +2,9 @@
 
 A small Node.js program that runs a 3×3 slot machine in the terminal. You type a starting balance, pick how many lines to play, place a bet, and the program prints a spin and updates that balance.
 
-This is a programming exercise. The balance is a number in memory. No account is created, no payment is taken, and nothing here connects to real money.
+The only purpose of this project is to learn JavaScript. It is practice: reading input, using functions, generating random results, and keeping a running total. It is not a product, and it is not meant to be used as a game for money.
+
+The balance is a number in memory. No account is created, no payment is taken, and nothing here connects to real money.
 
 ## A clear stance on gambling
 
@@ -10,7 +12,7 @@ I do not gamble, and I do not support gambling. I am strictly against it, and I 
 
 Real-money betting, casinos, and “just one more spin” products are built so the house keeps the advantage. Losses add up, and the habit is easy to slide into. This repository is not an invitation to do any of that. If you are looking for a place to wager money, this is the wrong project, and you should walk away from that idea entirely.
 
-The code exists so someone can read how a short interactive script is put together: input checks, a random draw, and a running total. Treat the dollar signs on screen as labels in a demo.
+The code is here only as a way to learn JavaScript: input checks, a random draw, and a running total in one short script. Treat the dollar signs on screen as labels in a lesson, not as money.
 
 ## What you will see
 
